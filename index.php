@@ -50,9 +50,6 @@
 
 <body>
 
-<div class="preloader">
-    <img src="assets/images/loader.png" class="preloader__image" alt="">
-</div><!-- /.preloader -->
 
 <div class="page-wrapper">
 
