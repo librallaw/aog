@@ -999,7 +999,7 @@
     (function($){
         $(window).on('load', function(){
             $.instagramFeed({
-                'username': 'excellent_lawrence',
+                'username': 'Army.of.God.Ministries',
                 'display_gallery': true,
                 'callback': function(data){
 
