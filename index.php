@@ -133,16 +133,8 @@
                             <div class="main-nav__right__btn-one">
                                 <a href="#"><i class="fas fa-heart"></i>Give</a>
                             </div>
-                            <div class="main-nav__right__icon-cart-box">
-                                <a href="#">
-                                    <span class="icon-shopping-cart"></span>
-                                </a>
-                            </div>
-                            <div class="main-nav__right__icon-search-box">
-                                <a href="#" class="main-nav__search search-popup__toggler">
-                                    <i class="icon-magnifying-glass"></i>
-                                </a>
-                            </div>
+
+
                         </div>
                     </div>
                 </nav>
