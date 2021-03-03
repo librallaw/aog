@@ -947,7 +947,7 @@
             </span>
         <div class="logo-box">
             <a href="#" aria-label="logo image">
-                <img src="assets/images/resources/logo-2.png" alt="" />
+                <img src="assets/images/resources/logo.png" alt="" />
             </a>
         </div>
         <!-- /.logo-box -->
