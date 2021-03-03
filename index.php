@@ -956,7 +956,9 @@
         <ul class="mobile-nav__contact list-unstyled">
             <li>
                 <i class="fas fa-envelope"></i>
-                <a href="mailto:needhelp@asting.com">needhelp@asting.com</a>
+                <a href="mailto:info@armyofgodministries.com">info@armyofgodministries.com
+
+                </a>
             </li>
             <li>
                 <i class="fas fa-phone-square-alt"></i>
